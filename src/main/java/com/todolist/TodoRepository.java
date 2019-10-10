@@ -1,6 +1,5 @@
 package com.todolist;
 
-import com.todolist.Todo;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 

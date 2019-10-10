@@ -1,7 +1,6 @@
 package com.todolist;
 
 
-import com.todolist.Todo;
 import org.springframework.stereotype.Repository;
 
 import javax.persistence.EntityManager;
